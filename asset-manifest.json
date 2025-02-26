@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/peace-homecare/static/css/main.1da78389.css",
+    "main.js": "/peace-homecare/static/js/main.bfa9e936.js",
+    "static/js/453.195b869a.chunk.js": "/peace-homecare/static/js/453.195b869a.chunk.js",
+    "static/media/Photo.jpg": "/peace-homecare/static/media/Photo.a95710ea6166b6f39fed.jpg",
+    "static/media/Loggo.jpg": "/peace-homecare/static/media/Loggo.3c87ad83a6fb9eb250ef.jpg",
+    "index.html": "/peace-homecare/index.html",
+    "main.1da78389.css.map": "/peace-homecare/static/css/main.1da78389.css.map",
+    "main.bfa9e936.js.map": "/peace-homecare/static/js/main.bfa9e936.js.map",
+    "453.195b869a.chunk.js.map": "/peace-homecare/static/js/453.195b869a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1da78389.css",
+    "static/js/main.bfa9e936.js"
+  ]
+}
